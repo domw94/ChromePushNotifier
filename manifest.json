@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Chrome Push Notifier",
+  "description": "This Extension shows Notifcations about new Blogposts.",
+  "version": "1.0",
+  "icons": {
+    "32":"icon.png",
+    "64":"icon.png"
+  },
+  "background":{
+    "page":"background.html"
+  },
+  "permissions": [
+    "notifications",
+    "https://dominikwieners.de/wp-json/wp/v2/posts"
+  ]
+}
