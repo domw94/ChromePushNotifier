@@ -1,10 +1,10 @@
-#Chrome Push Notifier
+# Chrome Push Notifier
 
 ![](https://raw.githubusercontent.com/domw94/ChromePushNotifier/master/icon.png)
 
 The **Chrome Push Notifier** is an Extension for Chrome that shows Push Notifications about new Blogposts.
 
-##How to Use
+## How to Use
 
 If you want to use this Extension for your (WordPress) Website please Install the [WordPress REST API Plugin](https://de.wordpress.org/plugins/rest-api/).
 
@@ -53,12 +53,12 @@ function pushEngine(){
 
 
 
-##Resources
+## Resources
 * [Chrome Rich Notifications](https://developer.chrome.com/apps/richNotifications)
 * [JQuery](https://jquery.com/)
 * WordPress REST API
 
 
 
-##Author
-© 2016 Copyright [dominikwieners.de](https://dominikwieners.de)
+## Author
+© 2016 Copyright [dominikwieners.de](http://dominikwieners.de)
